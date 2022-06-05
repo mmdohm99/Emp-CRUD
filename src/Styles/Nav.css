@@ -1,0 +1,11 @@
+.login{
+    color:red;
+    text-decoration:none;
+    background-color: yellow;
+
+}
+
+.Nav{
+    display:flex;
+    justify-content:space-between
+}
